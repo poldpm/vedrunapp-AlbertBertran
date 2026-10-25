@@ -1,0 +1,20 @@
+/* ============================================================
+   CONFIGURACIÓ LOCAL — NO SE SUBSTITUEIX MAI
+   ------------------------------------------------------------
+   Aquest fitxer conté el token de seguretat de l'app.
+   El poses UN COP i no l'has de tornar a tocar mai més:
+   quan actualitzis la resta del codi, aquest fitxer es queda igual.
+
+   · APP_TOKEN ha de coincidir amb el token de les propietats del
+     Code.gs (clau APP_TOKEN). És una cadena que TU inventes, no és
+     cap credencial de Google.
+
+   IMPORTANT: quan et passin una versió nova de l'app, substitueix
+   tots els fitxers MENYS aquest. Així el token es manté.
+   ============================================================ */
+
+window.APP_TOKEN = 'vedruna-escorial-vic-35d1e8e1bd7c0faafa4e59b5522084c7';
+/* Entrar amb Google: un sol cop a cada aparell. Qui comprova de
+   debò que siguis de l'escola és el servidor. */
+window.LOGIN_GOOGLE = "290684261462-o07ktlf7ikrvmvv0pmbli28560dqqmj1.apps.googleusercontent.com";
+window.LOGIN_DOMINI = 'escorialvic.cat';
