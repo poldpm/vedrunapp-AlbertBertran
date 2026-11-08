@@ -35,3 +35,8 @@
 
    Veure FILLES.md.
    ============================================================ */
+
+/* L'avís fort de la portada: el text viu a l'index.html; aquí només
+   hi diu QUIN avís toca. Es marca com a llegit un sol cop i no torna a
+   sortir (es desa al perfil, no al navegador). Veure js/millores.js. */
+window.AVIS_INICI = 'assoliments-automatics';
